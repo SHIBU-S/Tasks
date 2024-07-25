@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 99.5%;
+    height: 730px;
+    border-style: solid;
+    background-color: skyblue;
+}
+.menu{
+    width: 99%;
+    height: 150px;
+    border-style: solid;
+    background-color: red;
+    margin: 0 auto;
+}
+
+
+.menu1{
+    width: 80%;
+    height: 148px;
+    border-style: solid;
+    margin: 0 auto;
+    background-color: aqua;
+}
+.violet{
+    width: 47%;
+    height: 120px;
+    border-style: solid;
+    margin: 10px;
+    background-color: violet;
+    float: left;
+}
+.green1,.green2{
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    background-color: greenyellow;
+}
+.green1{
+    width: 94%;
+    height: 45px;
+    border-style: solid; 
+}
+.con1,.con2{
+    margin: 2px;
+}
+.con1{
+     width: 45%;
+     height: 35px;
+     border-style: solid;
+     float: left;
+     background-color: blue;
+}
+.con2{
+     width: 45%;
+     height: 35px;
+     border-style: solid;
+     float: right;
+     background-color: blue;
+}
+
+.green2{
+    width: 94%;
+    height: 45px;
+    border-style: solid;  
+}
+.con3,.con4{
+    margin: 2px;
+}
+.con3{
+     width: 45%;
+     height: 35px;
+     border-style: solid;
+     float: left;
+     background-color: blue;
+}
+.con4{
+    width: 45%;
+    height: 35px;
+    border-style: solid;
+    float: right;
+    background-color: blue;
+}
+
+.orange{
+    width: 47%;
+    height: 120px;
+    border-style: solid;
+    margin: 10px;
+    background-color: orange; 
+    float: right;  
+}
+.con5{
+    width: 23%;
+    height: 60px;
+    border-style: solid;
+    float: right;
+    margin: 30px;
+    background-color: black;
+}
+
+
+.content{
+    width: 99%;
+    height:200px;
+    border-style: solid;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.c1{
+    width: 80%;
+    height: 198px;
+    border-style: solid;
+    background-color: palevioletred;
+    margin: 0 auto;
+}
+.c2{
+    width: 40%;
+    height: 160px;
+    border-style: solid;
+    background-color: brown;
+    float: left;
+    margin: 12px;
+}
+.c3{
+    width: 74%;
+    height: 68px;
+    border-style: solid;
+    background-color: skyblue;
+    float: left;
+    margin: 45px;
+}
+
+.description{
+    width: 99%;
+    height: 220px;
+    border-style: solid;
+    background-color: brown;
+    margin: 0 auto;
+}
+.d1{
+    width: 80%;
+    height: 214px;
+    border-style: solid;
+    margin: 0 auto;
+    background-color: orange;
+}
+.box1{
+     width: 25%;
+     height: 180px;
+     border-style: solid;
+     background-color: brown;
+     margin: 16px;
+     float: left;
+}
+.note1{
+    width: 88%;
+    height: 30px;
+    border-style: solid;
+    background-color: red;
+    margin: 10px;
+}
+.explain1{
+    width: 88%;
+    height: 113px;
+    border-style: solid;
+    background-color: green;
+    margin: 10px;
+}
+
+
+
+.box2{
+    width: 25%;
+    height: 180px;
+    border-style: solid;
+    background-color: brown;
+    margin: 16px 73px;
+    float: left;
+}
+.note2{
+    width: 88%;
+    height: 30px;
+    border-style: solid;
+    background-color: red;
+    margin: 10px;
+}
+.explain2{
+    width: 88%;
+    height: 113px;
+    border-style: solid;
+    background-color: green;
+    margin: 10px;
+}
+.first,.second{
+    width: 35%;
+    height: 90px;
+    border-style: solid;
+    background-color: yellow;
+    margin: 10px;
+    float: left;
+}
+
+
+.box3{
+    width: 25%;
+    height: 180px;
+    border-style: solid;
+    background-color: brown;
+    margin: 16px;
+    float: right;
+}
+.note3{
+    width: 88%;
+    height: 30px;
+    border-style: solid;
+    background-color: red;
+    margin: 10px;
+}
+.explain3{
+    width: 88%;
+    height: 113px;
+    border-style: solid;
+    background-color: green;
+    margin: 10px;
+}
+
+
+.footer{
+    width: 99%;
+    height: 140px;
+    border-style: solid;
+    background-color: grey;
+    margin: 0 auto;
+}
+.reference{
+    width: 80%;
+    height: 130px;
+    border-style: solid;
+    margin: 0 auto;
+    background-color: white;
+}
+.ref1{
+    width: 35%;
+    height: 100px;
+    border-style: solid;
+    margin: 15px;
+    background-color: firebrick;
+    float: left;
+}
+.ref2{
+    width: 35%;
+    height: 100px;
+    border-style: solid;
+    margin: 15px;
+    background-color: firebrick;
+    float: right;
+}
+.r1{
+    width: 34%;
+    height: 47px;
+    border-style: solid;
+    margin: 30px;
+    background-color: blueviolet;
+    float: left;
+}
+.r2{
+    width: 34%;
+    height: 47px;
+    border-style: solid;
+    margin: 30px;
+    background-color: blueviolet;
+    float: right;
+}

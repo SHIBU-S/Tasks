@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 99.5%;
+    height: auto;
+    border-style: solid;
+}
+.heading{
+    width: 99.4%;
+    height: 150px;
+    /* border-style: solid;  */
+    margin: 0 auto;
+    background-color: skyblue;
+}
+.title,.navbar{
+    width: 98%;
+    height: 70px;
+     /* border-style: solid;  */
+    margin: 0 auto;
+    margin-top: 1px;
+}
+.title{
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+.titlename{
+    padding-top: 10px;
+    font-size: 40px;
+    text-shadow: 3px 4px 5px gray;
+}
+.navbar li{
+    display: inline;
+}
+.navbar li>a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    top: 20px;
+}
+
+.body{
+    width: 99.4;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 1px;
+    border-style: solid;
+    display: flex;
+    background-image: conic-gradient( red 10%,blue 25%,black 60%,pink 80%,gray 90%);
+}
+.gallery1,.gallery2{
+    width: 40%;
+    height: 290px;
+    border-style: solid;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.gallery1{
+    background-image: linear-gradient(red,green,yellow);
+}
+.gallery2{
+    background-image: radial-gradient(red,green,yellow);
+}
+
+.transistion{
+    width: 99.4;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 1px;
+    border-style: solid;
+    display: flex;
+    background-color: violet;
+}
+.content{
+    width: 35%;
+    height: 250px;
+    border-style: solid;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: skyblue;
+}
+.note{
+    color: white;
+    background-color: blue;
+}
+.content2{
+    height: 140px;
+    width: 20%;
+    border-style: solid;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    background-color: tomato;
+}
+.content2:hover{
+    width: 60%;
+    height: 200px;
+    transition-duration: 4s;
+    transition-property: all;
+    /* transition-delay: 1s; */
+    transition-timing-function: ease-in-out;
+}
+
+.content3{
+    width: 40%;
+    height: 100px;
+    border-style: solid;
+    position: relative;
+    top: 250px;
+}
+#para2{
+    color: red;
+}
+.para1{
+    color: blue;
+}
+p{
+    color: wheat !important;
+}

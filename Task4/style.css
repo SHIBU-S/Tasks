@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+.heading{
+    width: 99.5%;
+    height: 165px;
+    border-style: solid;
+    width: 0 auto;
+    background-color: rgb(186, 196, 215);
+}
+.heading1{
+    width: 90%;
+    height: 70px;
+    border-style: solid;
+    margin: 0 auto;
+}
+.title1{
+    width: 11%;
+    height: 41px;
+    border-style: solid;
+    margin: 13px;
+    display: block;
+    float: left;
+}
+h1{
+    font-size: 30px;
+    color: blue;
+}
+
+.title2{
+    width: 48%;
+    height: 52px;
+    border-style: solid;
+    margin: 8px;
+    display: block;
+    float: right;
+}
+h4{
+    display: block;
+}
+.address{
+     width: 42%;
+     height: 38px;
+     border-style: solid;
+     margin: 6px;
+     float: left;
+}
+.add1{
+     width: 78%;
+     height: 22px;
+     border-style: solid;
+     float: right;
+     margin: 2px;
+     padding-top: 5px;
+}
+.email{
+    width: 30%;
+    height: 35px;
+    border-style: solid;
+    margin: 6px;
+    float: left;
+}
+.em1{
+    width: 70%;
+    height: 22px;
+    border-style: solid;
+    float: right;
+    margin: 6px;
+}
+
+.logos{
+    width: 18%;
+    height: 33px;
+    border-style: solid;
+    margin: 6px;
+    float: right;
+    background-color: white;
+}
+img{
+    width: 14%;
+    margin: 3px;
+}
+
+
+.heading2{
+    width: 90%;
+    height: 83px;
+    border-style: solid;
+    margin: 0 auto;
+    background-color: white;
+}
+.navbar{
+    width: 39%;
+    height: 44px;
+    border-style: solid;
+    margin: 14px;
+    display: block;
+    float: left;
+}
+li{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.emergency{
+    width: 19%;
+    height: 83px;
+    border-style: solid;
+    float: right;
+    background-color: rgb(51, 58, 207);
+}
+.emer1{
+    width: 15%;
+    height: 40px;
+    border-style: solid;
+    margin: 19px;
+    float: left;
+    background-color: white;
+}
+.emer2{
+    width: 53.5%;
+    height: 40px;
+    border-style: solid;
+    margin: 16px;
+    float: right;
+}
+.emer1 img{
+     width: 60%;
+     margin: 6px;
+}
+.name{
+    color: white;
+}
+.no{
+     color: red;
+}
+
+
+.body{
+    width: 99.5%;
+    height: 765px;
+    border-style: solid;
+    margin-top: 2px;
+}
